@@ -8,8 +8,12 @@ animals = ["dog", "cat", "mouse"]
 
 mixed = ["Hola",42, True, [10,20]]
 
+print(mixed[2])
+print(mixed[-2]) 
+
 # Podemos crear una lista vacía simplemente como sigue:
 
 empty = []
+
 
 print(num_list,animals,mixed,empty)
